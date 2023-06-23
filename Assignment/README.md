@@ -12,7 +12,7 @@ Q3(1) **-2** <br/>
 Q3 **-1** <br/>
 没有给出虚拟地址的格式
 #### Assignment7: 80/100
-1555H：访问快表10ns+访问页表100ns+缺页中断10^8ns +访问快表10ns+访问物理页100ns=10^8ns+220ns    **-5**
+1555H：访问快表10ns+访问页表100ns+缺页中断10^8ns +访问快表10ns+访问物理页100ns=10^8ns+220ns    **-5** <br/>
 最后一题没有填写16进制   **-15**
 #### Assignment8: 98/100
 Q1(3) For memory-mapped I/O, the OS can control memory access permissions. your answer did not mention that. **-2**
